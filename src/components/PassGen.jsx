@@ -120,13 +120,16 @@ const PassGen = () => {
             </a>
           </li>
           <li>
-            <a href="https://www.fiverr.com/mqasim888?up_rollout=true" target="_blank">
+            <a href="https://www.fiverr.com/mqasim888" target="_blank">
               <TbBrandFiverr />
             </a>
           </li>
           <li>
-            <a href="https://www.linkedin.com/in/mqasimdeveloper/" target="_blank">
-            <FaLinkedin />
+            <a
+              href="https://www.linkedin.com/in/mqasimdeveloper/"
+              target="_blank"
+            >
+              <FaLinkedin />
             </a>
           </li>
         </ul>
